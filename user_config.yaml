@@ -1,0 +1,7 @@
+buy_option:
+  buy_card_name: 战壕标准
+  buy_price_max: 40
+  buy_price_min: 15
+wallet_option:
+  now_money: 43781
+  now_money_key: k
